@@ -10,6 +10,7 @@ E-mail: yuliia.vasylevska@gmail.com
 Phone: [+38 067 540 79 60](+380675407960)
 Linkedin: [Yuliia Vasylevska](https://www.linkedin.com/in/yuliia-vasylevska-a92b11187/)
 GitHub: [YuVasylevska](https://github.com/YuVasylevska)
+
 ### Skills
 - HTML5
 - CSS
