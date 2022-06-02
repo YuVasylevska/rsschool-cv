@@ -3,7 +3,7 @@
 # Yuliia Vasylevska
 
 I have 3 years of experience in the positions on IT Recruiter and HR Manager. I worked in start-ups, gaming, recruitment agency. I want to retrain as a developer. I am ready to take new challenges, not afraid to learn, improve and get new knowledge. Look forward to improving my skills and becoming a part of a professional team.
-****
+
 ### Contacts
 Location: [Ukraine. Kharkiv](https://en.wikipedia.org/wiki/Ukraine)  
 E-mail: yuliia.vasylevska@gmail.com  
@@ -24,7 +24,7 @@ GitHub: [YuVasylevska](https://github.com/YuVasylevska)
 - English - Pre-intermediate
 - Ukrainian - Native
 - Russian - Native
-****
+
 ### Work Experience
 
 ##### Head of HRD QIT Software
@@ -45,7 +45,7 @@ GitHub: [YuVasylevska](https://github.com/YuVasylevska)
 - Researching. Job postings.
 - Screening CVs.
 - Coordinating interviews with the hiring managers.
-****
+
 ### Education
 
 ##### Rolling Scopes School
@@ -57,7 +57,7 @@ Basics Development
 *January 2020 - February 2020*
 
 ##### Source IT
-IT Recruiting + HR
+IT Recruiting + HR  
 *May 2019 - Jule 2019*
 
 ##### Kharkiv Humanitarian-Pedagogical Academy
