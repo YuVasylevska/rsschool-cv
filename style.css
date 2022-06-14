@@ -96,7 +96,7 @@ body {
 
  h1 {
     font-size: 45px;
-    color: #000000;
+    color: #000;
     /* margin-bottom: 25px; */
  }
 
@@ -113,6 +113,11 @@ body {
   /* Project */
   .section-project {
     border-bottom: 1px solid black;
+  }
+
+  .project-url{
+    color: #000;
+    text-decoration: none;
   }
 
   /* Footer */
